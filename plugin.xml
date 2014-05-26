@@ -17,7 +17,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Printer">
-                <param name="android-package" value="com.accoladescripts.Printer"/>
+                <param name="android-package" value="com.accoladescripts.printer.Printer"/>
             </feature>
         </config-file>
  
